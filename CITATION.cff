@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and archived software release."
+title: "Reproducibility code for orthogonal genomic mechanisms of KRAS mutant dosage in lung adenocarcinoma"
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Yuanyuan
+  - family-names: Li
+    given-names: Jingzhang
+    email: lzryljz@163.com
+version: 1.0.0
+date-released: 2026-09-26
+repository-code: "REPOSITORY_URL_TO_BE_INSERTED"
+abstract: >-
+  Consolidated R workflow and locked audit artifacts supporting a study of two
+  locus-normalised KRAS mutant-dosage axes in lung adenocarcinoma: copy-number
+  expansion and allelic dominance.
+keywords:
+  - KRAS
+  - lung adenocarcinoma
+  - copy number
+  - allelic imbalance
+  - loss of heterozygosity
+  - reproducibility
+license: "LICENSE-TO-BE-SELECTED"

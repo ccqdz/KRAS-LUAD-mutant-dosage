@@ -1,0 +1,13 @@
+order	filename	role
+1	TCGA_KRAS_primary_n138_CORRECTED.csv	TCGA primary mechanistic cohort
+2	Stage15_TCGA_OS_analysis_dataset.csv	TCGA clinical cohort membership/OS
+3	LUAD_KRAS_expression_stage4.csv	Canonical TCGA RNA-evaluable cohort (n=63)
+4	OncoSG_Stage13_KRAS_master.csv	OncoSG molecular validation
+5	CPTAC_KRAS_MINIMAL_MASTER.csv	CPTAC proteogenomic validation
+6	MSK_KRAS_LUAD_external_cohort_FINAL.csv	Exact MSK external clinical validation cohort
+7	Stage16_FAM_prespecified_cutoffs.csv	FAM cutoff sensitivity
+8	Stage16_FAM_stage_subgroups_FINAL.csv	Stage subgroup analyses
+9	Stage16_FAM_stage_interaction_FINAL.csv	FAM-by-stage interaction
+10	Stage16_FAM066_landmark_OS.csv	FAM 0.66 landmark/descriptive OS support
+11	Stage17_TCGA_OS_time_metrics_bootstrap_FINAL.csv	Time-dependent prediction metrics
+12	Stage17_TCGA_OS_calibration_tertiles_FINAL.csv	Calibration summaries

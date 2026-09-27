@@ -1,0 +1,2 @@
+A software license has not been assigned automatically.
+Before public release, the authors/institution should select and approve a license (for example MIT, BSD-3-Clause, or another institutional preference).

@@ -1,0 +1,16 @@
+category	file	exists
+figure	Figure1_TCGA_axes_COLORED.pdf	TRUE
+figure	Figure2_TCGA_mechanisms_COLORED.pdf	TRUE
+figure	Figure3_molecular_validation_COLORED.pdf	TRUE
+figure	Figure4_TCGA_clinical_forest_COLORED.pdf	TRUE
+figure	Figure5_MSK_forest_COLORED.pdf	TRUE
+result	01_TCGA_axis_spearman.tsv	FALSE
+result	04A_TCGA_KRAS_RNA_spearman.tsv	TRUE
+result	04B_TCGA_KRAS_RNA_route_independent_models.tsv	TRUE
+result	06_TCGA_adjusted_cox.tsv	FALSE
+result	07_TCGA_FAM066_adjusted_OS.tsv	FALSE
+result	11_MSK_primary_model.tsv	FALSE
+result	12_MSK_sensitivity.tsv	FALSE
+audit	FINAL_LOCKED_AUDIT.tsv	TRUE
+audit	06_TCGA_RNA_PROVENANCE_AUDIT.tsv	TRUE
+audit	SESSION_INFO.txt	TRUE
